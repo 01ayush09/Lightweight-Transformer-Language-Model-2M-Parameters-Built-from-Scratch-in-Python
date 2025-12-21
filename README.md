@@ -1,4 +1,4 @@
-# Design and Implementation of a 2M+ Parameter Transformer Language Model from Scratch in Python
+# Design and Implementation of a 2Million+ Parameter Transformer Language Model from Scratch in Python
 
 ## 📌 Overview
 

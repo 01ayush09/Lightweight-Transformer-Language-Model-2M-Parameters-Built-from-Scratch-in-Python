@@ -1,6 +1,6 @@
 # Design and Implementation of a 2Million+ Parameter Transformer Language Model from Scratch in Python
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates the **end-to-end design, implementation, and training of a lightweight Transformer-based language model (~2.3M parameters) built entirely from scratch using Python**. The goal of this project is to deeply understand the **internal mechanics of modern Large Language Models (LLMs)** by implementing every core component without relying on deep learning frameworks such as PyTorch or TensorFlow.
 
@@ -8,7 +8,7 @@ The model is inspired by **LLaMA-style architectures** and includes modern Trans
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Understand Transformer architectures at a **low-level, implementation-first** perspective
 * Build a **fully functional language model** using only Python and NumPy
@@ -17,7 +17,7 @@ The model is inspired by **LLaMA-style architectures** and includes modern Trans
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 * **Decoder-only Transformer** (LLaMA-inspired)
 * **~2.3M trainable parameters**
@@ -29,7 +29,7 @@ The model is inspired by **LLaMA-style architectures** and includes modern Trans
 
 ---
 
-## ⚙️ Key Components Implemented from Scratch
+##  Key Components Implemented from Scratch
 
 * Custom **tokenization and vocabulary handling**
 * Embedding layers
@@ -45,7 +45,7 @@ The model is inspired by **LLaMA-style architectures** and includes modern Trans
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Python**
 * **NumPy**
@@ -53,7 +53,7 @@ The model is inspired by **LLaMA-style architectures** and includes modern Trans
 
 ---
 
-## 📊 Training Details
+##  Training Details
 
 * Trained on a small-scale text corpus
 * Autoregressive next-token prediction objective
@@ -61,7 +61,7 @@ The model is inspired by **LLaMA-style architectures** and includes modern Trans
 
 ---
 
-## 🚀 Why This Project Matters
+##  Why This Project Matters
 
 Most LLM projects rely heavily on high-level libraries. This project stands out by:
 
@@ -77,7 +77,7 @@ This makes it particularly valuable for:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Scaling to larger parameter counts
 * Adding Byte Pair Encoding (BPE) or SentencePiece tokenization
@@ -87,10 +87,10 @@ This makes it particularly valuable for:
 
 ---
 
-## 📎 Acknowledgements
+##  Acknowledgements
 
 Inspired by modern Transformer and LLaMA-style architectures, with a focus on learning through implementation.
 
 ---
 
-⭐ If you find this project useful for learning or reference, feel free to star the repository!
+If you find this project useful for learning or reference, feel free to star the repository!

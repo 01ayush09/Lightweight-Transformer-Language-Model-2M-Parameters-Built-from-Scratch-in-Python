@@ -37,42 +37,6 @@ These core transformer components allow the model to learn contextual representa
 
 ---
 
-## 📁 Repository Structure
-
-```
-Lightweight-2M-Parameter-Transformer-Language-Model/
-├── model.py                # Core model architecture definition
-├── train.py                # Training script for language modeling
-├── eval.py                 # Evaluation generation logic
-├── dataset.py              # Dataset loading and preprocessing utilities
-├── configs/                # Model & training configuration files
-├── scripts/                # Helper training utilities
-├── samples/                # Generated text examples
-├── requirements.txt        # Python dependencies
-└── README.md              # Project documentation
-```
-
----
-
-## 🛠️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/01ayush09/Lightweight-2M-Parameter-Transformer-Language-Model.git
-cd Lightweight-2M-Parameter-Transformer-Language-Model
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-> Recommended: Python 3.8+ with PyTorch installed.
-
----
-
 ## 🚀 Training the Model
 
 To train on a text dataset:

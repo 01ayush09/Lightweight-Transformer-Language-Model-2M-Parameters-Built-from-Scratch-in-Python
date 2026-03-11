@@ -37,7 +37,7 @@ These core transformer components allow the model to learn contextual representa
 
 ---
 
-## ▶️ Generating Text
+##  Generating Text
 
 After training, generate text using:
 
@@ -54,7 +54,7 @@ This runs autoregressive generation, producing coherent continuation from the pr
 
 ##  Performance & Use Cases
 
-📌 The model is designed for:
+The model is designed for:
 
 - Educational experimentation with transformer internals  
 - Language modeling on small datasets  
